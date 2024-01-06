@@ -16,13 +16,7 @@ export default ((opts?: Options) => {
         <p>
           Powered by<a href="https://quartz.jzhao.xyz/">Quartz</a> and Cloudflare Technologies
         </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+   
       </footer>
     )
   }
