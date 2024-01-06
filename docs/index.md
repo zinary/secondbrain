@@ -1,3 +1,5 @@
 ---
-title: Welcome to Quartz 4
+title: Welcome to the Digital Cortex Dump
+tagsaliase: 
+cssclasses:
 ---
